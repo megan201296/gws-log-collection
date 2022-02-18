@@ -1,1 +1,1 @@
-# gws-log-collection
+# Google Workspace Log Collection
